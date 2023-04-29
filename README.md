@@ -4,7 +4,9 @@ This GitHub repository, developed by Dan Lou, provides instructions and examples
 
 This GitHub repository, developed by Dan Lou, provides instructions and examples for using Mind+ to code a DJI Robomaster TT drone swarm. Mind+ is a visual programming language that makes it easy to program complex robotics projects, including drone swarms.
 
-The project is the result of a [Pacific Library Partnership](https://www.plpinfo.org/) [innovation grant](https://www.plpinfo.org/innovation-grants/2022-plp-innovation-and-technology-opportunity-grant-recipients/) “Light up the Library with Drones”, which aims to promote digital literacy to the community. 
+The project is the result of a [Pacific Library Partnership](https://www.plpinfo.org/) [innovation grant](https://www.plpinfo.org/innovation-grants/2022-plp-innovation-and-technology-opportunity-grant-recipients/) “Light up the Library with Drones”, which aims to promote digital literacy to the community.
+
+![PLP logo](Pictures/PLPLogo.png)
 
 ## What is DJI Robomaster TT?
 
@@ -24,10 +26,10 @@ To get started with coding Robomaster drone swarms using Mind+, follow the instr
 2. Open Mind+ and click Extensions, add both Robomaster Drone (Single) and Robomaster Drone (Team).
 3. Switch on a Robomaster drone and connect the computer to the drone's default network.
 4. Add the Robomaster drone as a device in Mind+ using the Robomaster Drone (Single) extension.
-5. Next connect the drone to the WiFi network of your choice by using the following block in Robomaster Drone. Replace [your WiFi] and [your Password] with the WiFi network name and password :
+5. Next connect the drone to the WiFi network of your choice by using the following block in Robomaster Drone. Replace [yourSSID] and [yourPASSWD] with the WiFi network name and password:
 
-> Switch to station mode, connect to the hotspot [your WiFi] password [your Password]
-> 
+> Switch to station mode, connect to the hotspot [yourSSID] password [yourPASSWD]
+>
 1. Turn on the STA mode on the drone.
 2. Repeat the above steps for every drone.
 
@@ -39,7 +41,7 @@ To get started with coding Robomaster drone swarms using Mind+, follow the instr
 
 ## Examples
 
-This repository provides example projects for coding Robomaster drone swarms using Mind+. The examples include the following movements of drones:
+This repository provides [example projects](Examples) for coding Robomaster drone swarms using Mind+. The examples include the following movements of drones:
 
 - Basic movement: code the drones to takeoff and land in a synchronized pattern.
 - Swarm behavior: program the drones to fly in a coordinated pattern.
@@ -76,4 +78,8 @@ This program is supported by [PLP Innovation and Technology Opportunity Grant](
 
 ### Promotion
 
-We promoted our event on the Library's home page and the robotics page.
+We posted the event in the events module in the Library's webiste.
+![Event image](Pictures/Event.jpg)
+
+We also promoted it on the Library's homepage and the robotics page.
+
