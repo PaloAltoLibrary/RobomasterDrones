@@ -14,7 +14,7 @@ DJI Robomaster TT drones are educational drones sponsored by DJI, the world's le
 
 Mind+ is a visual programming language that makes it easy to program robotics projects. With Mind+, you can drag and drop blocks to create complex programs without having to write any code. 
 
-## Getting Started
+## Get Started
 
 To get started with coding Robomaster drone swarms using Mind+, follow the instructions below.
 
