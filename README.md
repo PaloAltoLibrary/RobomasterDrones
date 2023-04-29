@@ -70,7 +70,7 @@ This program is supported by [PLP Innovation and Technology Opportunity Grant](
 - Programmer have access to a laptop with Mind+ installed
 - Customers bring in laptops with Mind+ installed
 - A WiFi network with network name and password that can be used for the drones
-- Slides for the workshop
+- [Slides for the workshop](https://docs.google.com/presentation/d/1_yUmbULR4DpxTb8WeIwXGxjvMfRv5GhnTFeGf1cdFYE/edit?usp=sharing)
 
 ### Staff and Volunteers
 
