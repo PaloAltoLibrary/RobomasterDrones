@@ -79,7 +79,7 @@ This program is supported by [PLP Innovation and Technology Opportunity Grant](
 ### Promotion
 
 We posted the event in the events module in the Library's webiste.
-![Event image](Pictures/Event.jpg)
+![Event image](Pictures/Event.png)
 
 We also promoted it on the Library's homepage and the robotics page.
 
